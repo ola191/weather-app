@@ -1,17 +1,15 @@
-# weather_app
+# Weather Application
 
-A new Flutter project.
+A simple weather application that displays the current temperature and visualizes it with a graph. 
+I made the application to use it instead of the default weather app, but this is not the intended effect yet. 
+With plans for future completion.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Fetches the user's location and retrieves weather data.
+- Displays the temperature in Fahrenheit in main circle and Celsius on a graph.
+- Interactive graph showing temperature trends in Celsius, with tooltips displaying exact values on hover "column space".
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# weather-app
+soon
