@@ -13,3 +13,13 @@ With plans for future completion.
 ## Installation
 
 soon
+
+
+<p align="center">
+      <img src="https://github.com/user-attachments/assets/ba17b5bf-4443-42ac-92f4-8f9bed6022a7" style="width: 45%;" align="left">
+      <img src="https://github.com/user-attachments/assets/507efc19-daa3-424f-b782-e8c6c2e674d2" style="width: 45%;" align="right">
+</p>
+
+   
+
+
